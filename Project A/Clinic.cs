@@ -98,4 +98,5 @@ namespace Project_A
             Console.WriteLine($"Прийом заплановано для пацієнта {appointment.Patient.FullName} у лікаря {appointment.Doctor.Name} на {appointment.AppointmentDate} в кабінеті {appointment.Room.RoomNumber}.");
         }
     }
+
 }
