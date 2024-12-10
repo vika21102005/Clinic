@@ -25,5 +25,6 @@ namespace Project_A
 
             Console.WriteLine($"Надано медичну послугу '{ServiceName}' пацієнту {patient.FullName}. Вартість: {Price} грн.");
         }
+
     }
 }
