@@ -30,6 +30,7 @@ namespace Project_A
         {
             IsConfirmed = true;
             Console.WriteLine($"Прийом підтверджено: {Patient.FullName} у лікаря {Doctor.Name} на {AppointmentDate} в кабінеті {Room.RoomNumber}.");
+
         }
     }
 }
