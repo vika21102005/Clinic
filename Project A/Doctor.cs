@@ -39,4 +39,5 @@ namespace Project_A
             Console.WriteLine($"{Name} призначив пацієнту {patient.FullName} медикамент {medication}.");
         }
     }
+    
 }
